@@ -1,5 +1,10 @@
+import HeaderComponent from "./components/HeaderComponent";
+
 function App() {
-  return <div>NimbusNex</div>
+  return <>
+  <HeaderComponent/>
+  <h1>NimbusNex</h1>
+  </>
 }
 
 export default App;
