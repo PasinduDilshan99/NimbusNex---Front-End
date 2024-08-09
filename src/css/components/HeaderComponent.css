@@ -1,0 +1,48 @@
+.header-area {
+    background-color: #fff;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .top-bar {
+    background-color: #ffffff; /* White */
+    padding: 10px 0;
+  }
+  
+  .contact-info .bi {
+    color: #004080; /* Dark blue */
+    margin-right: 8px;
+  }
+  
+  .contact-info {
+    color: #004080; /* Dark blue */
+    font-size: 14px;
+  }
+  
+  .header-logo {
+    max-width: 50px; /* Reduced logo size */
+  }
+  
+  .main-header {
+    background-color: #004080; /* Dark blue */
+    padding: 10px 0;
+  }
+  
+  .navbar-nav .nav-link {
+    color: #fff !important; /* White text for links */
+    padding: 10px 20px; /* Increased padding for more space */
+    font-weight: 500;
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #ffcc00 !important; /* Yellow on hover */
+  }
+  
+  .social-icons a {
+    color: #fff;
+    font-size: 18px;
+  }
+  
+  .social-icons a:hover {
+    color: #ffcc00; /* Yellow on hover */
+  }
+  
